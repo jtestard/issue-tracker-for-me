@@ -1,1 +1,1 @@
-tracd -s --port 8000 --basic-auth="*,/Users/julestestard/sandbox/.htpasswd,julestestard.com" /Users/julestestard/sandbox/sample-issue-tracker
+tracd -s --port 8080 --basic-auth="*,/home/ec2-user/issue-tracker-for-me/.htpasswd,julestestard.com" /home/ec2-user/issue-tracker-for-me
